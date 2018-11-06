@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Travel to Capetown - South Africa </title>
+   <style> 
+       h1{
+           color: rgb(20, 157, 199);
+       }
+       .about-capetown {
+           color: rgb(65, 179, 27);
+       }
+       .snorkelling-capetown {
+           color: rgb(30, 171, 17);
+       }
+       
+   </style>
+   
+   
+    </head>
+    <body>
+    
+        <h1>Travel to Capetown - South Africa</h1>
+        
+        <h2>About Capetown</h2>
+         
+         <p class="about-capetown"> Cape Town is a port city on South Africa’s southwest coast, on a peninsula beneath the imposing Table Mountain. Slowly rotating cable cars climb to the mountain’s flat top, from which there are sweeping views of the city, the busy harbor and boats heading for Robben Island, the notorious prison that once held Nelson Mandela, which is now a living museum.</p>
+        
+        <img src="https://www.kasandbox.org/programming-images/space/planet.png" alt="Pic of Capetown view">
+        
+        <h3>Snorkelling in Capetown</h3>
+        
+        <p class="snorkelling-capetown"> Cape Town is one of the best places to free dive, or snorkel, in the world. Cape fur seals, mako sharks, blue sharks, seven gill sharks, dolphins, whales and the magic of the kelp forests that line our west coast, mean the seas are rich with marine creatures, and incredibly beautiful.</p>
+        
+        <h3> Best places to snorkel</h3>
+        <ol> 
+            <li>Pyramid Rock</li>
+            <li>Sunny Cove</li>
+            <li>Cape Point</li>
+        </ol>
+        <img src="https://www.kasandbox.org/programming-images/cute/WaterBlock.png" alt="image of capetown ocean"> 
+        <h4>Places to visit in Capetown </h4>
+        <ul>
+            <li>Table Mountain</li>
+            <li>Cape of Good Hope</li>
+            <li>Boulders Beach</li>
+            <li>Robben Island</li>
+        </ul>
+        
+        <img src="https://www.kasandbox.org/programming-images/cute/WallBlockTall.png" alt="Pic of cape of Table Mountain">
+    </body>
+</html>
